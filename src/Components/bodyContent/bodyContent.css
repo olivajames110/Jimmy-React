@@ -1,0 +1,22 @@
+.body-content {
+ display: grid;
+ grid-template-columns: 1fr 100px;
+ 
+}
+
+
+.body-content .fa {
+ font-size: 28px;
+ margin-bottom: 5px;
+}
+
+.widgets-holder {
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+
+ justify-items: center;
+}
+
+.nav .fa {
+ color: #fff;
+}
