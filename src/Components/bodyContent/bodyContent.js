@@ -39,7 +39,7 @@ const BodyContent = () => {
      <Widget 
       name="Reviews"
       widgetBackgroundColor="#0765F1" 
-      mainStatNum="4.7"
+      mainStatNum="3.7"
       mainStatDesc="Average Score" 
       barColor="#40B8D3"  
       graph="https://digitalmarketing.blob.core.windows.net/10030/images/items/image481358.png" 
